@@ -1,13 +1,13 @@
 # Hi, I'm Luc 👋
 
-I build AI agents and automations that take real work off people's plates — usually with Python, a bit of AI glue, and whatever ships fastest. I learn by shipping.
+I build **AI agents and automation workflows** that take real, repetitive work off people's plates — usually with Python, LLMs, and whatever ships fastest. I learn by shipping to production.
 
-🛠️ **Right now:** Automation & Operations Intern @ **TechCompanions** — putting automated agents into production and building an internal KPI analytics dashboard (Flask + AWS) for their product, Famlyn.
+🛠️ **Right now:** Automation & Operations Intern @ **TechCompanions** — designing and shipping AI agents and automation workflows to production, plus an internal KPI analytics dashboard (Flask + AWS) for their product, Famlyn.
 
 🌱 Outside work I'm usually deep in a side project: AI agents, browser tools, an iOS app, small-business automations. Some serious, a lot of it just me messing around to see what sticks — but I ship more than I probably should.
 
 ### 🧰 Tech I reach for
-`Python` · `Flask` · `JavaScript` · `TypeScript` · `React` · `AWS` · `Supabase` · `Firebase`
+`Python` · `Flask` · `LLM / agent integration` · `Workflow automation` · `AWS` · `TypeScript` · `React` · `Supabase` · `Firebase`
 
 ### 🚀 A few things I've built
 | Project | What it is |
