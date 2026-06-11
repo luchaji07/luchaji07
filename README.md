@@ -1,10 +1,10 @@
 # Hi, I'm Luc 👋
 
-I'm a software engineer who likes turning messy real-world problems into small, automated systems — usually with Python, a bit of AI, and whatever ships fastest.
+I build AI agents and automations that take real work off people's plates — usually with Python, a bit of AI glue, and whatever ships fastest. I learn by shipping.
 
-🛠️ **Right now:** Software Engineering Intern @ **Famlyn** (Denver) — building an internal KPI analytics dashboard with **Flask + AWS**.
+🛠️ **Right now:** Automation & Operations Intern @ **TechCompanions** — putting automated agents into production and building an internal KPI analytics dashboard (Flask + AWS) for their product, Famlyn.
 
-🌱 I mostly build to learn: AI agents, little tools, and side projects. Some of it is serious, a lot of it is me messing around to see what sticks — and shipping more than I probably should.
+🌱 Outside work I'm usually deep in a side project: AI agents, browser tools, an iOS app, small-business automations. Some serious, a lot of it just me messing around to see what sticks — but I ship more than I probably should.
 
 ### 🧰 Tech I reach for
 `Python` · `Flask` · `JavaScript` · `TypeScript` · `React` · `AWS` · `Supabase` · `Firebase`
