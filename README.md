@@ -19,9 +19,6 @@ A 24/7 local AI server built from a repurposed gaming PC: real-time object detec
 **✈️ overhead — a live labeled sky feed** · *in design*
 Outdoor camera + ADS-B radio (RTL-SDR) sensor fusion that labels every plane overhead — flight #, airline, route, altitude — with a one-line Gemini narration, on a Next.js dashboard. The hard problem is camera↔radio calibration: mapping GPS coordinates onto camera pixels.
 
-**🌍 geo-game — shipped** · [live](https://atlas-three-iota.vercel.app/)
-A minimalist, Sporcle-style world-geography quiz: 197 countries, three modes, interactive d3-geo vector map, no framework. Live on Vercel.
-
 ---
 
 ### How I build
